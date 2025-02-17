@@ -74,3 +74,21 @@ Monitoring critical databases
 Verifying backup integrity
 Detecting unauthorized data modifications
 The File Integrity Checker is a versatile tool that can be adapted to various security and monitoring scenarios, making it an essential component of any organization's security infrastructure
+
+#OUTPUT:
+[integrity_report_20250215_175521.json](https://github.com/user-attachments/files/18826586/integrity_report_20250215_175521.json)
+[integrity_report_20250215_175621.json](https://github.com/user-attachments/files/18826587/integrity_report_20250215_175621.json)
+[integrity_report_20250215_175721.json](https://github.com/user-attachments/files/18826596/integrity_report_20250215_175721.json)
+[integrity_report_20250215_175734.json](https://github.com/user-attachments/files/18826585/integrity_report_20250215_175734.json)
+[integrity_report_20250215_175821.json](https://github.com/user-attachments/files/18826588/integrity_report_20250215_175821.json)
+[integrity_report_20250215_175921.json](https://github.com/user-attachments/files/18826590/integrity_report_20250215_175921.json)
+[integrity_report_20250215_180021.json](https://github.com/user-attachments/files/18826584/integrity_report_20250215_180021.json)
+[integrity_report_20250215_180121.json](https://github.com/user-attachments/files/18826595/integrity_report_20250215_180121.json)
+[integrity_report_20250215_175121.json](https://github.com/user-attachments/files/18826593/integrity_report_20250215_175121.json)
+[integrity_report_20250215_175221.json](https://github.com/user-attachments/files/18826594/integrity_report_20250215_175221.json)
+[integrity_report_20250215_175234.json](https://github.com/user-attachments/files/18826591/integrity_report_20250215_175234.json)
+[integrity_report_20250215_175321.json](https://github.com/user-attachments/files/18826589/integrity_report_20250215_175321.json)
+[integrity_report_20250215_175421.json](https://github.com/user-attachments/files/18826592/integrity_report_20250215_175421.json)
+
+[file_monitor_logs.txt](https://github.com/user-attachments/files/18826607/file_monitor_logs.txt)
+[important_file.txt](https://github.com/user-attachments/files/18826608/important_file.txt)
