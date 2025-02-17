@@ -1,0 +1,16 @@
+{
+    "monitored_files": [
+        {
+            "path": "C:/Users/borha/Desktop/important_file.txt",
+            "check_interval": 5,
+            "monitor_metadata": true
+        },
+        {
+            "path": "C:/Users/borha/Desktop/config.ini",
+            "check_interval": 10,
+            "monitor_metadata": false
+        }
+    ],
+    "log_file": "C:/Users/borha/Desktop/integrity_logs.txt",
+    "alert_threshold": 3
+}

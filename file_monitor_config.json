@@ -1,0 +1,15 @@
+{
+    "log_file": "file_monitor_logs.txt",
+    "monitored_files": [
+        {
+            "path": "./important_files/file1.txt",
+            "check_interval": 60,
+            "monitor_metadata": true
+        },
+        {
+            "path": "./important_files/file2.json",
+            "check_interval": 30,
+            "monitor_metadata": false
+        }
+    ]
+}

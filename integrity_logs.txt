@@ -1,0 +1,49 @@
+2025-02-15 18:00:35,943 - ERROR - File not found: C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:00:35,943 - ERROR - File not found: C:/Users/borha/Desktop/config.ini
+2025-02-15 18:07:49,113 - ERROR - File not found: C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:07:49,113 - ERROR - File not found: C:/Users/borha/Desktop/config.ini
+2025-02-15 18:10:27,060 - ERROR - File not found: C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:10:27,061 - ERROR - File not found: C:/Users/borha/Desktop/config.ini
+2025-02-15 18:11:37,472 - INFO - Starting monitoring for C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:12:47,615 - INFO - Starting monitoring for C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:12:47,615 - INFO - Starting monitoring for C:/Users/borha/Desktop/config.ini
+2025-02-15 18:17:32,492 - INFO - Starting monitoring for C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:17:32,492 - INFO - Starting monitoring for C:/Users/borha/Desktop/config.ini
+2025-02-15 18:18:32,504 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:18:32,504 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:18:32,584 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:18:32,585 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:18:32,703 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:18:32,704 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,512 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,512 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,591 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,592 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,710 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:07,710 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,518 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,518 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,597 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,597 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,715 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:19:27,715 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,614 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,614 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,693 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,693 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,805 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:25:42,805 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:32:03,363 - INFO - Starting monitoring for C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:32:03,363 - INFO - Starting monitoring for C:/Users/borha/Desktop/config.ini
+2025-02-15 18:32:33,372 - INFO - Hash change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-15 18:32:33,373 - INFO - Metadata change detected in C:/Users/borha/Desktop/important_file.txt
+2025-02-17 17:06:50,731 - ERROR - File not found: ./important_files/file1.txt
+2025-02-17 17:06:50,731 - ERROR - File not found: ./important_files/file2.json
+2025-02-17 17:10:08,049 - INFO - Starting monitoring for ./important_files/file1.txt
+2025-02-17 17:10:08,049 - INFO - Starting monitoring for ./important_files/file2.json
+2025-02-17 17:13:38,026 - INFO - Starting monitoring for ./important_files/file1.txt
+2025-02-17 17:13:38,028 - INFO - Starting monitoring for ./important_files/file2.json
+2025-02-17 17:16:29,613 - INFO - Starting monitoring for ./important_files/file1.txt
+2025-02-17 17:16:29,613 - INFO - Starting monitoring for ./important_files/file2.json
+2025-02-17 17:18:23,894 - INFO - Starting monitoring for ./important_files/file1.txt
+2025-02-17 17:18:23,894 - INFO - Starting monitoring for ./important_files/file2.json
